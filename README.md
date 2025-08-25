@@ -33,7 +33,7 @@ The decentralized and often anonymous nature of cryptocurrencies presents **uniq
   - Use of mixers and wallet generators by hackers, and how law enforcement responds.  
 
 ## 🎥 Video Presentation  
-👉 *[[Link to Presentation Video]](https://drive.google.com/file/d/1r0b4Ktn7ZyooEyLViQBZjXA42a9bFtVO/view?usp=sharing)*  
+👉 *(https://drive.google.com/file/d/1r0b4Ktn7ZyooEyLViQBZjXA42a9bFtVO/view?usp=sharing)*  
 
 ---
 
