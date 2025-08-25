@@ -1,6 +1,6 @@
 # 🔐 Investigating Crypto-Related Crimes: Challenges & Opportunities  
 
-This repository contains a **10-minute video presentation** exploring the **challenges and opportunities of investigating cryptocurrency-related crimes**, with a focus on law enforcement’s use of blockchain analysis tools.  
+**10-minute video presentation** exploring the **challenges and opportunities of investigating cryptocurrency-related crimes**, with a focus on law enforcement’s use of blockchain analysis tools.  
 
 ## 📌 Overview  
 Cryptocurrency-related crimes cover a wide range of illegal activities, including:  
